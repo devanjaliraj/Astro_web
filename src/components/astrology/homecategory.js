@@ -11,7 +11,6 @@ import {
 } from "reactstrap";
 import textbottom from "../../assets/img/textbottom.png";
 import heroscope1 from "../../assets/img/heroscope/heroscope1.png";
-
 class HomeCategory extends React.Component {
   render() {
     return (
